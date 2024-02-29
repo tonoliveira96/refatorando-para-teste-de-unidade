@@ -1,10 +1,19 @@
+using Flunt.Validations;
+
 namespace Store.Domain.Entities
 {
-  public class OrderItem
+  public class OrderItem: Entity
   {
     public OrderItem(Product product, int quantity)
     {
-      Product = product;
+            AddNotifications(
+                new Contract()
+                .Requires()
+                .IsNotNull(product, "Product", "Produto inváldo")
+                .IsGreaterThan(quantity, 0,"Quantity", "A quatidade deve ser maior que zero.")
+            );
+
+            Product = product;
       Price = Product != null ? product.Price : 0;
       Quantity = quantity;
     }

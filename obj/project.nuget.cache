@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "6MT5BIuayGs/o2rcCJSITWUFyagsYZenS4N666JV50AfP177Evq+uPAm8z0xS6Pdc3dBoGQrgO2IkFMvpCWtMw==",
+  "dgSpecHash": "TbsHxo3j7wvkneBJZW9SlZcOW61iNOuEqu2xNEsGDU84JAlJb242w9Fjb9e9L0rBxz7q4XiGR/H8IKIyiyKmuA==",
   "success": true,
   "projectFilePath": "C:\\Users\\everton.oliveira\\Documents\\Balta.io\\Refatorando para testes de unidade\\Store\\Store.Domain\\Store.Domain.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\everton.oliveira\\.nuget\\packages\\flunt\\1.0.3\\flunt.1.0.3.nupkg.sha512"
+  ],
   "logs": []
 }

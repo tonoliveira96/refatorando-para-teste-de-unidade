@@ -1,8 +1,9 @@
+using Flunt.Notifications;
 using System.Data.Common;
 
 namespace Store.Domain.Entities
 {
-  public class Entity
+  public class Entity: Notifiable
   {
     public Entity(){
       Id = Guid.NewGuid();
