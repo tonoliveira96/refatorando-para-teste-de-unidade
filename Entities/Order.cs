@@ -1,5 +1,4 @@
 ﻿
-
 using Flunt.Validations;
 using Store.Domain.Enums;
 

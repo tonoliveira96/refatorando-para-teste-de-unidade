@@ -9,7 +9,7 @@ namespace Store.Domain.Entities
             AddNotifications(
              new Contract()
                 .Requires()
-                .IsNotNull(product, "Product", "Produto inválido")
+                .IsNotNull(product, "Product", "Produto invï¿½lido")
                 .IsGreaterThan(quantity, 0, "Quantity", "A quantidade deve ser maior que zero")
             );
 
