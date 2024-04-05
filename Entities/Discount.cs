@@ -13,7 +13,7 @@ namespace Store.Domain.Entities
 
     public bool IsValid()
     {
-      return DateTime.Compare(DateTime.Now, ExpireDate) > 0;
+      return DateTime.Compare(DateTime.Now, ExpireDate) < 0;
     }
 
     public decimal Value()
