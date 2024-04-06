@@ -1,17 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "klFHD5Ucu6xIO4mu+RI1thndzD3JQRw51ezFuUKFW69IroQEy2iip2cWuJKbGyqrejmrFy5jSLYkv3JhikwkQA==",
+  "dgSpecHash": "9HocPn/K/5Q/QjlY6XobB+QIEcQTkEsD5wsEMyAPe9vzCiVGpmvp9VspVbWwtOCjpoxrPa1XUBHtfvpmNdRU9A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\everton.oliveira\\Documents\\Balta.io\\Refatorando para testes de unidade\\Store\\Store.Domain\\Store.Domain.csproj",
+  "projectFilePath": "C:\\Users\\everton.oliveira\\Documents\\Balta.io\\Advanced .NET Developer\\02-Refatorando para testes de unidade\\Store\\Store.Domain\\Store.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\everton.oliveira\\.nuget\\packages\\flunt\\1.0.3\\flunt.1.0.3.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Problem reading the cache file C:\\Users\\everton.oliveira\\Documents\\Balta.io\\Refatorando para testes de unidade\\Store\\Store.Domain\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
-    }
-  ]
+  "logs": []
 }

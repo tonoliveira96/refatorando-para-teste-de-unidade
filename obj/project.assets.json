@@ -39,11 +39,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\everton.oliveira\\Documents\\Balta.io\\Refatorando para testes de unidade\\Store\\Store.Domain\\Store.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\everton.oliveira\\Documents\\Balta.io\\Advanced .NET Developer\\02-Refatorando para testes de unidade\\Store\\Store.Domain\\Store.Domain.csproj",
       "projectName": "Store.Domain",
-      "projectPath": "C:\\Users\\everton.oliveira\\Documents\\Balta.io\\Refatorando para testes de unidade\\Store\\Store.Domain\\Store.Domain.csproj",
+      "projectPath": "C:\\Users\\everton.oliveira\\Documents\\Balta.io\\Advanced .NET Developer\\02-Refatorando para testes de unidade\\Store\\Store.Domain\\Store.Domain.csproj",
       "packagesPath": "C:\\Users\\everton.oliveira\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\everton.oliveira\\Documents\\Balta.io\\Refatorando para testes de unidade\\Store\\Store.Domain\\obj\\",
+      "outputPath": "C:\\Users\\everton.oliveira\\Documents\\Balta.io\\Advanced .NET Developer\\02-Refatorando para testes de unidade\\Store\\Store.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -107,13 +107,5 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Problem reading the cache file C:\\Users\\everton.oliveira\\Documents\\Balta.io\\Refatorando para testes de unidade\\Store\\Store.Domain\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
-    }
-  ]
+  }
 }
